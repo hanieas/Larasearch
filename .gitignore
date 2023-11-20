@@ -1,0 +1,7 @@
+package/vendor
+composer.lock
+.idea
+example-app
+vendor
+package
+.DS_Store
