@@ -1,6 +1,9 @@
 # LaraSearch
 
 # Installation
+```bash
+composer require hasemi/larasearch
+```
 
 # Usage
 <hr>
