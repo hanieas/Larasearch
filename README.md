@@ -1,4 +1,5 @@
 # LaraSearch
+This is a search package built to easily integrate with Laravel and the database.
 
 # Installation
 ```bash
@@ -106,4 +107,8 @@ class UserController extends Controller
         ]);
     }
 }
+```
+You can easily search from the users' list by calling the below link:
+```
+{{address}}/users?username=hanie?mobile=?is_active=1?logged_in_from=2023-10-10?logged_in_to=2023-12-10
 ```
