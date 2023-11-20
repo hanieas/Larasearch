@@ -3,7 +3,7 @@ This is a search package built to easily integrate with Laravel and the database
 
 # Installation
 ```bash
-composer require hasemi/larasearch
+composer require hanieas/larasearch
 ```
 
 # Usage
