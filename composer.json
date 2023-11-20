@@ -1,5 +1,5 @@
 {
-    "name": "hasemi/larasearch",
+    "name": "hanieas/larasearch",
     "type": "library",
     "autoload": {
         "psr-4": {
