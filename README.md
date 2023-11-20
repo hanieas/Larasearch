@@ -6,7 +6,6 @@ composer require hasemi/larasearch
 ```
 
 # Usage
-<hr>
 
 ## Prepare Model
 
